@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="RunAllExceptCartClassTests">
+    <test name="UnitTests">
+        <classes>
+            <class name="RealItemTests" />
+
+        </classes>
+    </test>
+</suite>
