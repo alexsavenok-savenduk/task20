@@ -1,7 +1,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="TestAll">
-    <test name="order">
+    <test name="UnitTests">
         <classes>
             <class name="CartTests" />
             <class name="JsonParserTests" />
